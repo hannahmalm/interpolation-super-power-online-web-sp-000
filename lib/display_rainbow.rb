@@ -9,7 +9,7 @@
 # end
 
 def display_rainbow(colors)
-  p "R: #{colors[0]}"
+  p "R: hello #{colors[0]}"
   puts "O: #{colors[1]}"
   puts "Y: #{colors[2]}"
   puts "G: #{colors[3]}"
